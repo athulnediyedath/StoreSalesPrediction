@@ -19,7 +19,10 @@
 🏁 Finally deploy your model to flask using Pycharm 🤗
 
 ## Technologies Used
-• Anaconda Navigato\
+
+• Anaconda Navigator\
+
 • Pycharm\
+
 • Jupyter Notebook
 
