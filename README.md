@@ -20,9 +20,9 @@
 
 ## Technologies Used
 
-• Anaconda Navigator\
+• Anaconda Navigator
 
-• Pycharm\
+• Pycharm
 
 • Jupyter Notebook
 
